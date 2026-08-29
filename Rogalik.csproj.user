@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="EnemyTypesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GameForm.Abilities.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GameForm.Combat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GameForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GameForm.Entities.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GameForm.Input.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GameForm.Render.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GameForm.UI.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="GameForm.Utils.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoadingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainMenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
